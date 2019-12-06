@@ -1,0 +1,22 @@
+Write applications for each distribution.
+Show an example why an estimator like sample mean is called unbiased estimator of sample mean and
+why soem other statistic like max{..} is an unbiased estimator.
+
+
+In file 1:
+Include Hyper-geometric distribution.
+
+In file 3
+
+Chi-suare goodness of fit test   and other applications of chis-quare test
+https://hostmath.com/
+Include expression for t-test
+
+t= \frac{\bar{X}-\mu_0}{s_{x}/\sqrt{n} } \sim t_{n-1}
+
+
+t= \frac{(\bar{X}-\bar{Y}) - \mu_0}{\sqrt { \frac{s_{x}^2}{n} + \frac{s_{y}^2}{m} } } \sim t_{v}
+
+t= \frac{(\bar{X}-\bar{Y}) - \mu_0}{\sqrt { \frac{s_{x}^2}{n} + \frac{s_{y}^2}{m} } } \sim t_{df*}  
+
+df* = \frac{ (\frac{s_{x}^2}{n} + \frac{s_{y}^2}{m} )^2  } {(\frac{s_{x}^2{n})^2 
