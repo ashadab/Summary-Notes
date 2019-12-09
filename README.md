@@ -1,9 +1,6 @@
-<font color='red'> **Please note that these notes are a Work in Progress and need lot of changes.** <\font>
-
 ```diff
 - Please note that these notes are a Work in Progress and need lot of changes.
 ```
-
 
 Following is the description for each directory in this repository:
 
